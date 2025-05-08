@@ -41,18 +41,17 @@ const razik = {
 
 Multi-functional WhatsApp bot with 20+ features including AI integration, games, and utilities. Built with:
 - Baileys framework for WhatsApp API
-- OpenAI integration for smart responses
-- Redis for session management
+- Multiplayer Games
+- Media Downloader
 
 ### 🏆 [MPL ID Unofficial API](https://github.com/razikdontcare/mplid-unofficial-api)
 [![Hono.js](https://img.shields.io/badge/-Hono.js-000000?logo=hono&logoColor=white)](https://hono.dev/)
 [![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_F4B728?logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
 
 High-performance esports API serving real-time MPL Indonesia data. Features:
-- 50ms average response time
-- Built with Hono.js for edge computing
-- Automatic data scraping & caching
-- Rate limiting and request validation
+- Built with Hono.js
+- Automatic data scraping
+- Image generation
 
 ---
 
