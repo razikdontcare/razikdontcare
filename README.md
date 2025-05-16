@@ -39,7 +39,7 @@ const razik = {
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-Multi-functional WhatsApp bot with 20+ features including AI integration, games, and utilities. Built with:
+Multi-functional WhatsApp bot with games, and utilities. Built with:
 - Baileys framework for WhatsApp API
 - Multiplayer Games
 - Media Downloader
@@ -48,7 +48,7 @@ Multi-functional WhatsApp bot with 20+ features including AI integration, games,
 [![Hono.js](https://img.shields.io/badge/-Hono.js-000000?logo=hono&logoColor=white)](https://hono.dev/)
 [![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_F4B728?logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
 
-High-performance esports API serving real-time MPL Indonesia data. Features:
+High-performance esports API serving MPL Indonesia data. Features:
 - Built with Hono.js
 - Automatic data scraping
 - Image generation
