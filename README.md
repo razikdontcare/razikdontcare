@@ -8,7 +8,7 @@ I'm a passionate developer from Indonesia, currently focused on building impactf
 - 🏫 Computer Science enthusiast
 - 🌎 Based in Indonesia
 - 🛠️ Full Stack Developer | Open Source Contributor
-- 📫 Email: razikajee@gmail.com
+- 📫 Email: me@razik.net
 - 🌐 [razik.net](https://razik.net)
 - 🐦 [@razikdontcare](https://twitter.com/razikdontcare)
 
@@ -37,7 +37,7 @@ I'm a passionate developer from Indonesia, currently focused on building impactf
 
 ## 📫 How to reach me
 
-- Email: razikajee@gmail.com
+- Email: me@razik.net
 - Twitter: [@razikdontcare](https://twitter.com/razikdontcare)
 - Personal website: [razik.net](https://razik.net)
 
