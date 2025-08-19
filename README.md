@@ -70,7 +70,7 @@ Docker • Linux • Git • MongoDB • MariaDB • Firebase • TailwindCSS
   <img src="https://github-readme-stats.vercel.app/api?username=razikdontcare&show_icons=true&hide_border=true&bg_color=22272e&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="razikdontcare's GitHub stats" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=razikdontcare&theme=github-dark&hide_border=true&background=22272e" alt="razikdontcare's GitHub streak" width="49%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razikdontcare&layout=compact&hide_border=true&bg_color=22272e&title_color=58a6ff&text_color=c9d1d9" alt="Top Languanges" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razikdontcare&layout=compact&hide_border=true&bg_color=22272e&title_color=58a6ff&text_color=c9d1d9&t=1" alt="Top Languanges" width="41%" />
 </p>
 
 ---
